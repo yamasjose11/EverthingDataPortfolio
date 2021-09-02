@@ -13,7 +13,7 @@ A content-based approach in our case gives recommendations based on the similari
 
 # The Data
 
-My data is comprised of two datasets from data.world(https://github.com/yamasjose11/EverythingDataPortfolio/blob/main/DataScience/Recommendation_Systems/Content_Based_RecommendationSys/README.md#references) after joining the datasets I have one dataset that contains over 2,500 offical TED Talk Transcripts up to late 2017. This is where the majority of the text-processing of the data will be conducted to make use of a better translating of a recommender. 
+My data is comprised of two datasets from [data.world](https://github.com/yamasjose11/EverythingDataPortfolio/blob/main/DataScience/Recommendation_Systems/Content_Based_RecommendationSys/README.md#references) after joining the datasets I have one dataset that contains over 2,500 offical TED Talk Transcripts up to late 2017. This is where the majority of the text-processing of the data will be conducted to make use of a better translating of a recommender. 
 
 <!-- Word Count Distribution EDA -->
 <p align="center">
