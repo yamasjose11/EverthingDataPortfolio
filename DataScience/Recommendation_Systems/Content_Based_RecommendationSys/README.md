@@ -1,10 +1,10 @@
-# TED Talk Content-Bases Recommendation System
+# TED Talk Content-Based Recommendation System
 
 ![Title Image](https://github.com/yamasjose11/tedtalk-recommendation-system/blob/main/images/tedtalkmainpage.png)
 
 # Motivation and Objective
 
-My motivation for this project is woven in my underlying passion for learning and TED Talks never fail to teach me something new. I want to see if i can replicate what most major major streaming services do and that is see if I can explore and build my very own recommender system. With this as my main focus I will try and stick to building a content based recommender using various tool and methods to achieve just that.
+My motivation for this project is woven in my underlying passion for learning and TED Talks never fail to teach me something new. I want to see if I can replicate what most major streaming services do and that is, see if I can explore and build my very own recommender system. With this in mind, my main focus will be to try and stick to building a content based recommender using various tool and methods to achieve just that.
 
 # Content-Based Recommender System
 
