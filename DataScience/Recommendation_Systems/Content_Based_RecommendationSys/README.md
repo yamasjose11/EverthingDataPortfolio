@@ -57,6 +57,8 @@ Marvin Minsky: Health and the human mind
 Mathias Jud: Art that lets you talk back to NSA spies
 Alain de Botton: Atheism 2.0' 'Hans Rosling: New insights on poverty
 
+# Conclusion
+
 Unlike the TF-IDF approach, the suggestions given by the basic LDA approach could be better as some of the recommendations are not very in tune with what I felt were the main focus of the input suggestion by Simon Sinek. So in conclusion the TF-IDF approach has given us more better generic reocmmendations from the choise of TED Talks it decides to return. 
 
 # Future Development
